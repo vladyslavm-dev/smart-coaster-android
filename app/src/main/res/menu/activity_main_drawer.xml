@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_central"
+            android:title="Central Screen" />
+        <item
+            android:id="@+id/menu_patient0"
+            android:title="Patient 1" />
+        <item
+            android:id="@+id/menu_patient1"
+            android:title="Patient 2" />
+        <item
+            android:id="@+id/menu_patient2"
+            android:title="Patient 3" />
+    </group>
+
+</menu>

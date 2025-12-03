@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">thesis</string>
+
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+    <string name="delete_entry">Delete Entry</string>
+    <string name="delete_patient_data">Delete Patient Data</string>
+
+    <string-array name="summary_modes">
+        <item>1h</item>
+        <item>1d</item>
+        <item>1w</item>
+        <item>1m</item>
+    </string-array>
+
+
+    <string name="scale_header">Scale</string>
+    <string name="app_header">App</string>
+
+    <!-- One single line, separated by “\n”, no extra spaces -->
+    <string name="scale_instructions">
+        1. Place cup.\n2. Wait for stable reading.\n3. Refill with the cup on the scale.\n4. After drinking, put the cup back on the scale.\n5. Enjoy!
+    </string>
+
+    <!-- Also one single line for bullet points, no extra spaces after “\n” -->
+    <string name="app_instructions">
+        • This app logs intake/refill.\n• The Remind button sends a reminder to the scale, displayed as an LED effect.\n• Entries can be exported as a CSV file.\n• Backups are automatically saved in the Download folder.
+    </string>
+
+</resources>
+
