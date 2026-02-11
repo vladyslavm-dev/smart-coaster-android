@@ -197,8 +197,8 @@ R 32.10 a     # Refill of 32.10 g for cup "a"
 
 ### Prerequisites
 
-- Android Studio Ladybug or newer
-- Java 11 toolchain
+- Android Studio 2024.2+
+- JDK 17+
 - Android SDK 34
 - An Android device or emulator running Android 12+
 
@@ -230,8 +230,6 @@ R 32.10 a     # Refill of 32.10 g for cup "a"
 | **MPAndroidChart** | Weekly intake bar chart |
 | **AndroidX + Material Components** | Modern UI + appcompat |
 | **JUnit / AndroidX Test / Espresso** | Testing stack |
-
-All BLE reconnection logic, event buffering, weight stabilization, and backup strategy is implemented manually.
 
 ---
 
